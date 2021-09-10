@@ -92,3 +92,11 @@ body
 { 
     color: hsl(228, 45%, 44%); 
 }
+
+@media (min-width: 768px)
+{
+    *
+    {
+        font-size: 30px
+    }
+}
